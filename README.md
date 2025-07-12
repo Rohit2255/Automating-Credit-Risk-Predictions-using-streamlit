@@ -53,7 +53,7 @@ Credit-Risk-Segmentation-App/
 
 ```bash
 # 1. Clone the repo
-https://github.com/yourusername/credit-risk-segmentation-app.git
+https://github.com/Rohit2255/Automating-Credit-risk-using-streamlit.git
 
 # 2. Install dependencies
 pip install -r requirements.txt
