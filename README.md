@@ -27,7 +27,7 @@ This project segments banking customers into **3 distinct clusters** based on th
 ## 📂 Folder Structure
 
 ```
-Credit-Risk-Segmentation-App/
+Automated credit risk predictor/
 ├── app.py                         # Streamlit frontend
 ├── scaler.pkl                     # Saved StandardScaler
 ├── pca.pkl                        # Saved PCA transformer
